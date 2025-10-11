@@ -1,4 +1,3 @@
-Of course\! Here's a README for your Inter-IIT project.
 
 -----
 
