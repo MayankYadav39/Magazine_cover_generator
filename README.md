@@ -1,0 +1,1 @@
+# Magazine_cover_generator
