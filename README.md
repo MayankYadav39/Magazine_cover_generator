@@ -3,7 +3,7 @@
 
 # 📰 Magazine Cover Generator
 
-This project is an AI-powered tool designed for the Inter-IIT Tech Preperation to automatically transform any user-uploaded image into a professional-looking magazine cover. The system uses a multi-stage pipeline involving advanced generative models for image creation and a sophisticated OCR correction module to ensure high-quality, legible text.
+This project is to automatically transform any user-uploaded image into a professional-looking magazine cover. The system uses a multi-stage pipeline involving advanced generative models for image creation and a sophisticated OCR correction module to ensure high-quality, legible text.
 
 -----
 
